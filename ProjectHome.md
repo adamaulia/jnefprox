@@ -1,0 +1,1 @@
+nefprox is a neuro Fuzzy model which can automatic generate set of fuzzy rule from some learning data. This project implement that algorithm in Java so other people can use that for their application
